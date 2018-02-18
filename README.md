@@ -10,6 +10,10 @@ mochatest: Using CHAI and MOCHA to test a few functions.
 
 testmap: Tested out the google developers console, API, maps, markers.
 
+snakegame: canvas and javascript to make a snakegame.
+
+ponggame: HTML, canvas, and javascript to code a ponglike game.
+
 
 
 
